@@ -1,0 +1,9 @@
+Flower Store Results
+--------------------
+Flower Store One
+Tallest flower: Sunflower
+
+Flower Store Two
+Tallest flower: Sunflower
+
+Total number of red flowers: 4

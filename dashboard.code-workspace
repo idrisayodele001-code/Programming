@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "../../../../xampp/htdocs/dashboard"
+		},
+		{
+			"path": "../QuickBooks"
+		},
+		{
+			"path": "../Yelcode"
+		},
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../Firstbank"
+		},
+		{
+			"path": "../Key Bank"
+		},
+		{
+			"path": "../class work"
+		},
+		{
+			"path": "../Ts.bank"
+		},
+		{
+			"path": "../Providus Bank"
+		},
+		{
+			"path": "../DHL"
+		},
+		{
+			"path": "../Crayo ai"
+		},
+		{
+			"path": "../Freelancing"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Crayo ai"
+	}
+}

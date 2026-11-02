@@ -1,0 +1,4 @@
+Fresh Juice Company - Shop One
+Orange juice;3.5;20
+Apple juice;2.5;30
+Mango juice;4.0;15

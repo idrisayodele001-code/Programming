@@ -1,0 +1,3 @@
+Building Store One
+Cement;Finishing material;25;China;600
+Tiles;Floor covering;40;Italy;300

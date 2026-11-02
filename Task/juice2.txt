@@ -1,0 +1,4 @@
+Fresh Juice Company - Shop Two
+Pineapple juice;3.0;25
+Orange juice;3.5;40
+Mango juice;4.5;10

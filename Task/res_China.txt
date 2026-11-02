@@ -1,0 +1,2 @@
+Cement	Finishing material	25	China	600
+Wood	Finishing material	35	China	700

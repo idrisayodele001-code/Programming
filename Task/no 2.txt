@@ -1,0 +1,5 @@
+
+Building Store Two
+Bricks;Building material;50;Lithuania;200
+Wood;Finishing material;35;China;700
+Glass;Finishing material;45;Germany;400
