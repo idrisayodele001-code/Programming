@@ -1,0 +1,8 @@
+Jonaitis Jonas Kaunas male 861234567 1960 80 blue yes 11 2
+Petraitis Petras Vilnius male 866543210 1980 101 brown no 0 1
+Jonaitiene Rasa Kaunas female 860123456 1962 75 green yes 5 2
+Petraitiene Ruta Vilnius female 860023456 1983 89 brown no 0 1
+Roze Paulina Klaipeda female 860101011 2006 60 blue no 0 0
+Didziulis Tomas Siauliai male 865454544 1950 120 brown yes 23 3
+Kavaliauskiene Ramune Sakiai female 860321011 2007 62 blue no 0 0
+Skalvelis Romas Panevezys male 865453214 1945 110 green yes 12 2
